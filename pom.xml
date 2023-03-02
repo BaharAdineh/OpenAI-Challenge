@@ -27,6 +27,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!--  need to find a way to use  https://github.com/TheoKanning/openai-java      -->
         <dependency>
             <groupId>com.theokanning.openai-gpt3-java</groupId>
             <artifactId>client</artifactId>
